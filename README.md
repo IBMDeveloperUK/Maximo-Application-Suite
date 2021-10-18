@@ -1,7 +1,6 @@
-# Maximo-Application-Suite
-Build a cloud native asset management application on IBM Cloud
+# Maximo-Application-Suite 
 
-**How to get started and  Deploy OpenShift v 4.6**
+**Knowledge resources and enablement material
 
 
 | Topic | Information | NOTE |
