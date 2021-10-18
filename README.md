@@ -1,6 +1,6 @@
 # Maximo-Application-Suite 
 
-**Knowledge resources and enablement material
+Knowledge resources and enablement material
 
 
 | Topic | Information | NOTE |
@@ -13,7 +13,7 @@
 || [Introduction to Containers, Kubernetes, and OpenShift](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/) ||
 |||
 | Installing Maximo Application Suite |[Complete guide on installing MAS](https://www.ibm.com/docs/en/mas85/8.5.0?topic=planning-installation) ||
-|  |[MAS installation guide](https://ibm.seismic.com/Link/Content/DCC5e8v3egLkaXB-ZGhfIf0A) | SEISMIC |
+|  |[MAS installation guide](https://ibm.ent.box.com/file/874132199833) | |
 |||
 | Scaling Openshift clusters and underlying infrastructure | [How to add additional Virtual Server Instances](https://cloud.ibm.com/docs/vpc?topic=vpc-creating-virtual-servers&interface=ui) ||
 ||[How to auto-scale your underlying VMware infrastructure](https://cloud.ibm.com/docs/vpc?topic=vpc-creating-auto-scale-instance-group&interface=ui)||
