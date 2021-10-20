@@ -5,9 +5,9 @@ Knowledge resources and enablement material
 
 | Topic | Information | NOTE |
 | ----------- | ----------- | -----|
-| Kubernetes and Containers concepts  | [Overview of Kubernetes](https://ibm.ent.box.com/file/874106353583) ||
-||[Overview of Containers](https://ibm.box.com/s/kmksbv6fw4twpw71d9b5f70474qcljcw) ||
-||[kubernetes Extensions and Operators](https://ibm.ent.box.com/file/874106353583) ||
+| Kubernetes and Containers concepts  | [Overview of Kubernetes](https://ibm.box.com/s/kmksbv6fw4twpw71d9b5f70474qcljcw) ||
+||[Overview of Containers](https://ibm.box.com/s/q36by40d0jtx2b9t07ewo28ofhjl6xr2) ||
+||[kubernetes Extensions and Operators](https://ibm.box.com/s/qsomo95exkr2hma4u3ci1yydyyfypw1o) ||
 ||[Containerization-for-Maximo-Partners](https://ibm.ent.box.com/file/874108191795) ||
 | Application containers (Red Hat) | [Containers, Kubernetes and Red Hat OpenShift Technical](https://www.redhat.com/en/services/training/do080-deploying-containerized-applications-technical-overview?section=Overview) ||
 || [Introduction to Containers, Kubernetes, and OpenShift](https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CC0201EN+2020_T2/course/) ||
