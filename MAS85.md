@@ -16,7 +16,6 @@
 ||[Visual Inspection - Hi Resolution - EarlyStop Maximo Visual Inspection](https://ibm.seismic.com/Link/Content/DCxCKdr2UXLkqTUOY3pPXGMw)|SEISMIC|
 ||[Visual Inspection - Storage Monitoring Maximo Visual Inspection](https://ibm.seismic.com/Link/Content/DCZfhsXcdAQkGU7C-Ricy3qA)|SEISMIC|
 ||[Visual Inspection - UI Updates Maximo Visual Insp](https://ibm.seismic.com/Link/Content/DCXzAjUcByeEWt8eZjqnK5m)|SEISMIC|
-|MAS|[MAS Roadmap & Strategy](https://event.on24.com/wcc/r/3086960/BB9869D9D684C73696CD059598278D63)||
-||[MAS Technical overview  & Hybrid  Cloud Considerations ](https://event.on24.com/wcc/r/3087132/6658F4EE4E0AAD9977990CBCB2FF0A7C)||
-||[MAS  Packaging  and  License Models](https://event.on24.com/wcc/r/3087136/75F3755EAB998FD4005F66B860AC0182)||
+
+Links to SEISMIC data for all partnerworld members.  [Go here](https://www.ibm.com/partnerworld/public) to become a member
 
