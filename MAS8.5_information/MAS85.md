@@ -16,6 +16,7 @@
 ||[Visual Inspection - Hi Resolution - EarlyStop Maximo Visual Inspection](https://ibm.seismic.com/Link/Content/DCxCKdr2UXLkqTUOY3pPXGMw)|SEISMIC|
 ||[Visual Inspection - Storage Monitoring Maximo Visual Inspection](https://ibm.seismic.com/Link/Content/DCZfhsXcdAQkGU7C-Ricy3qA)|SEISMIC|
 ||[Visual Inspection - UI Updates Maximo Visual Insp](https://ibm.seismic.com/Link/Content/DCXzAjUcByeEWt8eZjqnK5m)|SEISMIC|
+||[Maximo Managed Service presentation](https://ibm.seismic.com/Link/Content/DCZMq1iEaptku7ZYCVtrAOSg)|SEISMIC|
 
 Links to SEISMIC data for all partnerworld members.  [Go here](https://www.ibm.com/partnerworld/public) to become a member
 
